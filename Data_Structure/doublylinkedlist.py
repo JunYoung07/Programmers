@@ -14,6 +14,22 @@ class DoublyLinkedList:
         self.tail.prev = self.head
         self.tail.next = None
 
+    def __repr__(self):
+        if self.nodeCount == 0:
+            return 'LinkedList: empty'
+
+        s = ''
+        curr = self.head
+        while curr.next.next:
+            curr = curr.next
+            s += repr(curr.data)
+            if curr.next.next is not None:
+                s += ' -> '
+        return s
+
+    def getLength(self):
+        return self.nodeCount
+
     def traverse(self):
         result = []
         curr = self.head
