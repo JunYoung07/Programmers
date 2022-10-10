@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2401dedf-be1a-47c4-9523-f9e3249f2a68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Data_Structure/Queue/queue.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structure/ArrayStack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structure/Binary_search.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structure/Fibo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structure/Hanoi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structure/LinkedListStack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structure/Linked_List.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structure/List.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structure/NewLinkedList.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structure/PostfixNotation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structure/Recursive.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structure/answer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structure/doublylinkedlist.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structure/linear_search.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +28,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/jun/Desktop/MyGit/Programmers&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/jun/Desktop/MyGit"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Data_Structure" />

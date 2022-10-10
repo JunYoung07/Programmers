@@ -6,9 +6,9 @@ class Node:
 class LinkedList:
     def __init__(self):
         self.nodeCount = 0
-        # LinkedList 맨 앞에 dummyNode 생
+        # LinkedList 맨 앞에 dummyNode 생성
         self.head = Node(None)
-        self.tail = None성
+        self.tail = None
         self.head.next = self.tail
 
     def __repr__(self):
