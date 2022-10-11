@@ -8,7 +8,7 @@ class DoublyLinkedList:
     def __init__(self):
         self.nodeCount = 0
         self.head = Node(None)
-        self.tail - Node(None)
+        self.tail = Node(None)
         self.head.prev = None
         self.head.next = self.tail
         self.tail.prev = self.head
